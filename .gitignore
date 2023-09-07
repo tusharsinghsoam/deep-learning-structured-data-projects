@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 datasets/
+
+Regression_Fuel_Efficiency/datasets/
+Regression_Fuel_Efficiency/logs/
